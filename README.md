@@ -19,13 +19,13 @@ help the retail business make informed decisions.
 
 
 
-Key Concepts and Challenges:
+## Key Concepts and Challenges:
 
 
 
-Data Loading and Cleaning.
-Descriptive Statistics.
-Time Series Analysis: Analyze sales trends over time using time series techniques.
-Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
-Visualization: Present insights through bar charts, line plots, and heatmaps.
+* **Data Loading and Cleaning**.
+* **Descriptive Statistics**.
+* **Time Series Analysis: Analyze sales trends over time using time series techniques**.
+* **Customer and Product Analysis: Analyze customer demographics and purchasing behavior**.
+* **Visualization: Present insights through bar charts, line plots, and heatmaps**.
 Recommendations: Provide actionable recommendations based on the EDA.
