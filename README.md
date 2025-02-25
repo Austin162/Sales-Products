@@ -1,4 +1,30 @@
 Exploratory Data Analysis (EDA) on Retail Sales Data
+Project Title
+
+Table of Contents
+Project Title
+
+Description
+
+Features
+
+Installation
+
+Usage
+
+Data Sources
+
+Technologies Used
+
+File Structure
+
+Contributing
+
+License
+
+Acknowledgments
+
+Contact
 
 
 
