@@ -1,30 +1,23 @@
 Exploratory Data Analysis (EDA) on Retail Sales Data
-Project Title
+# Table of Contents
 
-Table of Contents
-Project Title
+1. [Introduction](#introduction)
+2. [Project Description](#project-description)
+3. [Data Source](#data-source)
+4. [Dependencies](#dependencies)
+5. [Installation](#installation)
+6. [Usage](#usage)
+    - [Loading Data](#loading-data)
+    - [Data Exploration](#data-exploration)
+    - [Feature Engineering](#feature-engineering)
+    - [Model Training](#model-training)
+    - [Model Evaluation](#model-evaluation)
+7. [Results](#results)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact Information](#contact-information)
+11. [Acknowledgements](#acknowledgements)
 
-Description
-
-Features
-
-Installation
-
-Usage
-
-Data Sources
-
-Technologies Used
-
-File Structure
-
-Contributing
-
-License
-
-Acknowledgments
-
-Contact
 
 
 
