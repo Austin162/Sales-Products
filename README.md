@@ -12,7 +12,7 @@ help the retail business make informed decisions.
 * **Gender Distribution**: visualizing purchasing pattern
 * **Age Distribution**: Visualizing Trends in sales
 * **Descriptive Statistics**: Presented basic statistics for numeric columns
-* * **Heatmap**: Visualizing using heatmap to ascertain the degree of correlation
+*  **Heatmap**: Visualizing using heatmap to ascertain the degree of correlation
 
 
 
